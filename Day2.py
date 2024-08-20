@@ -22,6 +22,7 @@ st.divider()
 st.subheader('데이터 차트')
 st.title('')
 
+
 # Convert dates to string
 start_date = date_range[0].strftime("%Y-%m-%d")
 end_date = date_range[1].strftime("%Y-%m-%d")
