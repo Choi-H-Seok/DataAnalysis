@@ -18,7 +18,6 @@ stock_code = st.text_input("종목 코드 입력 :", '377480')
 st.subheader('')
 date_range = st.date_input("조회일 설정 :", [datetime.date(2023, 1, 1), datetime.date(2023, 8, 14)])
 
-
 st.divider()
 st.subheader('데이터 차트')
 st.title('')
