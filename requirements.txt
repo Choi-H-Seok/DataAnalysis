@@ -1,3 +1,6 @@
 Finance-dataReader==0.9.50
 pandas==2.0.3
 streamlit==1.24.0
+Pillow==9.4.0
+setuptools
+wheel
